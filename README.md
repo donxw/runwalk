@@ -1,5 +1,4 @@
 # runwalk timer
-
 Timer to help in trainging for marathons.  Set run vs walk time.  Ratio of run to walk is set by web page hosted by the ESP32.
 
 ## parts ##
