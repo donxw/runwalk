@@ -30,4 +30,12 @@ Piezo speaker will create a low-high tone when it is time to switch to running,
 and a high-low tone when it is time to walk.
 ![walk (Small)](https://user-images.githubusercontent.com/31633408/149831801-0520bf64-e152-4495-970b-30c22a2afd0c.JPEG)
 
+## case ##
+A 3D printed case and plastic lens encase the electonics, buzzer and battery for use when running:
+![InCase (Small)](https://user-images.githubusercontent.com/31633408/149833078-96a7c77a-8a4b-4bd0-949f-e594ee7ccecf.JPEG)
+
+A switch and charging / programming port are on one side.  Note that the switch needs to be in the on position when charging the battery.
+
+![Connector (Small)](https://user-images.githubusercontent.com/31633408/149833189-c49e0859-efc3-4fa1-a0ee-cadd33df659c.JPEG)
+
 
